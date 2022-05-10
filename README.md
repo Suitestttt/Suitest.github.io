@@ -7,6 +7,7 @@
 <body>
 
 <center><img src="https://1.bp.blogspot.com/-RTK0ll2Vx0g/YJKC00ZeOPI/AAAAAAAABLk/VFG-YBkJOYIJTdPpS4SOEZV0XF2Q8HmcACLcBGAsYHQ/s0/loading.gif"></center>
+	<center>img src="https://1.bp.blogspot.com/-RTK0ll2Vx0g/YJKC00ZeOPI/AAAAAAAABLk/VFG-YBkJOYIJTdPpS4SOEZV0XF2Q8HmcACLcBGAsYHQ/s0/loading.gif"<center>
 
 
 
